@@ -9,3 +9,4 @@ Collaborative software engineer
 ## My skills
 
 * Git and GitHub
+* Chew ass and eat gum 
