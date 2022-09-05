@@ -1,7 +1,11 @@
-# Test Testson
+# Olle Nyqvist
 
 Collaborative software engineer
 
 ## My projects
 
-"" My skills
+* Collaborative Software Project in Computational Physics
+
+## My skills
+
+* Git and GitHub
